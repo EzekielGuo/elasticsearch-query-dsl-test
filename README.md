@@ -34,6 +34,6 @@ match_phrase
 
 
 参考资料：
-https://es.xiaoleilu.com/100_Full_Text_Search/10_Multi_word_queries.html
+https://es.xiaoleilu.com/100_Full_Text_Search/10_Multi_word_queries.html  <br/>
 https://www.cnblogs.com/bonelee/p/6105394.html
 
